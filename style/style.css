@@ -1,0 +1,11 @@
+.gradient1 {
+  background: linear-gradient(to right, #34e89e, #0f3443);
+}
+
+.gradient2 {
+  background: linear-gradient(to left, #34e89e, #0f3443);
+}
+
+.btn-color {
+  background-color: #34e89e;
+}
